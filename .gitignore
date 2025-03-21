@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# data
+data/
+
+# Virtual environment
+mnist-class/
+
+# VS Code settings (optional)
+.vscode/
+
+# Dependency files
+*.egg-info/
+
+# macOS system files
+.DS_Store
+
