@@ -3,6 +3,9 @@
 ## Introduction
 This repository contains a PyTorch implementation of a lightweight convolutional neural network (CNN) trained to recognize handwritten digits from the MNIST dataset. It demonstrates a complete end‑to‑end workflow — from data loading and model design to training, evaluation, and visualization — and serves as a showcase project for building a computer vision portfolio.
 
+## For more details please checkout - 
+- [Report](./Report.pdf)
+
 ## File Structure
 - checkpoints/ # Saved model checkpoints (*.pth) 
 - visualizations/ # Generated plots (PNG) 
