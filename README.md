@@ -10,7 +10,8 @@ This repository contains a PyTorch implementation of a lightweight convolutional
 - model.py # CNN architecture definition 
 - train.py # Training loop + checkpoint saving 
 - eval.py # Load checkpoint → compute test metrics 
-- visualize.py # Dataset & prediction visualizations ├── requirements.txt # dependencies 
+- visualize.py # Dataset & prediction visualizations 
+- requirements.txt # dependencies 
 - Portfolio Project 01.pdf # Detailed project report
 
 ## 🚀 Quickstart
